@@ -2,7 +2,7 @@
 - 👀 I’m interested in Addons
 - 🌱 I’m currently learning Mods and Addons
 - 💞️ I’m looking to collaborate on nothing (fine)
-- 📫 How to reach me on [Google](addoncraftmc@gmail.com)
+- 📫 How to reach me on addoncraftmc@gmail.com
 
 <!---
 AddonCraftMC/AddonCraftMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
